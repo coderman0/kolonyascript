@@ -1,2 +1,2 @@
 # kolonyascript
-istediğiniz siteye kolonya dökün
+istediğiniz siteye kolonya dökün :D
